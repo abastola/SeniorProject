@@ -1,0 +1,1 @@
+java -jar "Stock Market Simulator.jar"
